@@ -5,7 +5,7 @@ _Student_
 Kaylahr0849@hstat.org
 
 **schedule**
-
+  <ol>
 <li>English</li>
 <li>US History</li>
 <li>Spanish 5</li>
@@ -14,3 +14,4 @@ Kaylahr0849@hstat.org
 <li>PE</li>
 <li>SEP</li>
 <li>Lunch</li>
+  <ol>
