@@ -6,11 +6,11 @@ Kaylahr0849@hstat.org
 
 **schedule**
 
-1.English
-2.US History
-3.Spanish 5
-4.Trig 2
-5.Physics
-6.PE
-7.SEP
-8.Lunch
+<li>English
+<li>US History
+<li>Spanish 5
+<li>Trig 2
+<li>Physics
+<li>PE
+<li>SEP
+<li>Lunch
