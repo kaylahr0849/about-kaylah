@@ -5,7 +5,11 @@
 _Student_
 **High School of Telecommunications Arts and Technology**
 Kaylahr0849@hstat.org
- I live In crown heights,Brooklyn currently go to school at HSTAT
+ 
+ 
+ I live In crown heights,Brooklyn currently go to school at HSTAT as a Junior.
+
+
 **schedule**
   <ol>
 <li>English</li>
