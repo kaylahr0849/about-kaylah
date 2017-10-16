@@ -1,10 +1,12 @@
 # about-kaylah
 
 _Student_
+
 **High School of Telecommunications Arts and Technology**
+
 Kaylahr0849@hstat.org
 
-**schedule**
+## schedule
   <ol>
 <li>English</li>
 <li>US History</li>
