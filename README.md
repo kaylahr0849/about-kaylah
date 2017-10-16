@@ -3,14 +3,16 @@
 # **Kaylah Rodney**
 
 _Student_
+
 **High School of Telecommunications Arts and Technology**
+
 Kaylahr0849@hstat.org
  
  
  I live In crown heights,Brooklyn currently go to school at HSTAT as a Junior.
 
 
-**schedule**
+## schedule
   <ol>
 <li>English</li>
 <li>US History</li>
