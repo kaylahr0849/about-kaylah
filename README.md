@@ -1,6 +1,6 @@
 # about-kaylah
 
-# **Kaylah**
+# **Kaylah Rodney**
 
 _Student_
 **High School of Telecommunications Arts and Technology**
